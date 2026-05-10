@@ -1,4 +1,4 @@
-NBA Player Archetype Segmentation & Career Longevity Prediction
+NBA Player Archetype Segmentation & Career Longevity Prediction -By Romal Desai
 ================================================================
 CS439 Final Project — Data Science Pipeline for NBA Roster Decision Support
 
