@@ -1,0 +1,20 @@
+# Dataset (download from Kaggle separately)
+all_seasons.csv
+
+# Generated figures
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
