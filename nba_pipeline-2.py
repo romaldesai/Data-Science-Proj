@@ -2,13 +2,11 @@
 # NBA Player Archetype Segmentation and Career Longevity Prediction
 # Romal Desai (rsd101)
 
-import warnings
-warnings.filterwarnings("ignore")
+
 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
